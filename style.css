@@ -1,0 +1,63 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+  margin: 0;
+  background: #c8d2dd;
+}
+
+/* Header */
+.profile-pic {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+header {
+  background: #1a2230;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+* Text alignment */
+.text {
+  text-align: left;
+}
+
+/* Navbar */
+nav {
+  background: #56657f;
+  text-align: center;
+  padding: 8px;
+}
+
+nav a {
+  color: white;
+  margin: 8px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: lightblue;
+}
+
+/* Sections */
+section {
+  width: 75%;
+  margin: 20px auto;
+  background: white;
+  padding: 15px;
+}
+
+/* Projects */
+.card {
+  background: #f2f2f2;
+  padding: 10px;
+  margin-top: 10px;
+  border-left: 3px solid lightblue;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #1a2230;
+  color: white;
+}
